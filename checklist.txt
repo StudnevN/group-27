@@ -1,0 +1,12 @@
+Number: 1
+
+Summary:Checking if the calculator is enabled
+Enviroment:
+Chrome,Opera,Firefox
+
+Comments:
+
+Status:
+Chrome - Passed
+Opera - Fail
+Firefox - Fail
