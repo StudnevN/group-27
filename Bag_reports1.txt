@@ -1,0 +1,11 @@
+ID : 1
+Summary: first item of the menu haven't translate to Korean on the main page
+Severity: Minor
+
+Steps to reproduce:
+1)Open the site
+2)Click on the button
+
+Actual Result: Calendar date 06.05.2019
+Expected Result: Calendar date 11.14.2021
+
